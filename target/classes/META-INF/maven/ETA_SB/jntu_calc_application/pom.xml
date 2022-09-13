@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>jntu_calc_application</name>
-	<!-- FIXME change it to the project's website -->
+	
 	<url>http://www.example.com</url>
 
 	<properties>
@@ -20,7 +20,7 @@
 		<sonar.projectKey>calculator</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>sqp_9f21f8aaadea5599b44ae42ea820c176139df010</sonar.login>
+		<sonar.login>sqp_b8168dd3cb8a8c49ae6ab651a95dd13a555bf321</sonar.login>
 
 	</properties>
 

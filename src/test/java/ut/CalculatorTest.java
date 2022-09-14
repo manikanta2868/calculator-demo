@@ -34,7 +34,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testMul() {
-		assertTrue(cl.doMul(9, 2) == 18);
+		assertTrue(cl.doMul(9, 3) == 27);
 	}
 
 	@Test
